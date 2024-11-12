@@ -25,7 +25,7 @@ docker build -t kevineduardo14/javadocker .
 ~~~
 docker run kevineduardo14/javadocker
 ~~~
-##Login the Docker Hub
+## Login the Docker Hub
 ~~~
 docker login
 ~~~
